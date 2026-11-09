@@ -1,0 +1,4 @@
+baseURL = 'https://forestdesu.github.io/test'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'ananke'

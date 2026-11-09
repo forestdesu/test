@@ -1,0 +1,8 @@
+echo "quickstart/public/
+quickstart/resources/
+quickstart/.hugo_build.lock
+hugo.exe
+public/
+.venv/
+.idea/
+.hugo_build.lock" > .gitignore
